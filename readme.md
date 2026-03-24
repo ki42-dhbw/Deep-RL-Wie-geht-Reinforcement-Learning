@@ -20,4 +20,4 @@ Dieses Projekt erfordert **kein Setup, keine Installation und keinen Build-Proze
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/DEIN_USERNAME/arkanoid-ai.git
+   git clone https://github.com/ki42-dhbw/Deep-RL-Wie-geht-Reinforcement-Learning.git
