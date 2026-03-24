@@ -4,8 +4,7 @@ Ein interaktives Machine Learning Experiment, bei dem eine Künstliche Intellige
 
 Die KI verwendet **Deep Reinforcement Learning (DQN)** und läuft dank **TensorFlow.js** vollständig lokal und in Echtzeit in deinem Webbrowser – ohne Backend oder serverseitiges Training.
 
-![Screenshot Platzhalter](https://via.placeholder.com/800x400.png?text=Screenshot+der+Arkanoid+KI) 
-*(Hinweis: Füge hier später einen Screenshot deiner App ein)*
+![Screenshot der Arkanoid KI](bild_1.png)
 
 ## ✨ Features
 
