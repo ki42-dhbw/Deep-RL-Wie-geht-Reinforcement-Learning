@@ -12,7 +12,7 @@ Die KI verwendet **Deep Reinforcement Learning (DQN)** und läuft dank **TensorF
 * **Deep Q-Network (DQN):** Implementierung moderner DeepMind-Techniken wie *Experience Replay* und *Target Networks* für stabiles Lernen.
 * **Turbo-Modus:** Ein Simulations-Slider erlaubt es, das Training auf bis zu 20-fache Geschwindigkeit zu beschleunigen.
 * **Live-Gehirn-Visualisierung:** Das Dashboard zeigt in Echtzeit den "Zustand" der KI, ihren Lernfortschritt (Epsilon) und ihre aktuelle Entscheidung.
-* **Interaktives Lehrbuch:** Unter dem Spiel befindet sich eine detaillierte, leicht verständliche wissenschaftliche Dokumentation samt live gerenderter SVG des neuronalen Netzes und einem umfassenden KI-Lexikon.
+* **Interaktives Lehrbuch:** Unter dem Spiel befindet sich eine detaillierte, verständliche Dokumentation.
 
 ## 🚀 Installation & Start
 
